@@ -1,0 +1,22 @@
+.event {
+    width: 500px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid rgb(151, 138, 138);
+    border-radius: 10px;
+    
+}
+
+.name {
+    color: rgb(57, 50, 50);
+    font-weight: 600;
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.text {
+    color: rgb(126, 90, 90);
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
